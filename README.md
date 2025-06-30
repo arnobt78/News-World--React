@@ -1,4 +1,4 @@
-# News - ReactVite Web Application
+# News Current World - ReactVite Web Application
 
 ![Screenshot 2024-09-27 at 17 06 29](https://github.com/user-attachments/assets/41ea5799-d1cc-44b6-bca5-d28787b8f022)
 
@@ -6,7 +6,7 @@
 
 ## Project Summary
 
-**News-ReactVite** is a modern news web application built with React and Vite, providing live, real-time world news powered by the GNews API. Designed for rapid development and learning, this project demonstrates best practices in React, state management, API integration, and frontend tooling. The application features categorized news, a responsive layout, and showcases integration with third-party APIs using Axios.
+A modern news web application built with React and Vite, providing live, real-time world news powered by the GNews API. Designed for rapid development and learning, this project demonstrates best practices in React, state management, API integration, and frontend tooling. The application features categorized news, a responsive layout, and showcases integration with third-party APIs using Axios.
 
 - **Live-Demo:** https://news-arnob.vercel.app/
 
